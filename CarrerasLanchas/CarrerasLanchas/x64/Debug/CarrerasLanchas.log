@@ -1,0 +1,7 @@
+﻿  CarrerasLanchas.cpp
+C:\Users\yeraylasrec\source\repos\CarrerasLanchas\CarrerasLanchas\CarrerasLanchas.cpp(6,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\yeraylasrec\source\repos\CarrerasLanchas\CarrerasLanchas\CarrerasLanchas.cpp(22,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Lancha.cpp
+C:\Users\yeraylasrec\source\repos\CarrerasLanchas\CarrerasLanchas\Lancha.cpp(60,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  CarrerasLanchas.vcxproj -> C:\Users\yeraylasrec\source\repos\CarrerasLanchas\x64\Debug\CarrerasLanchas.exe
